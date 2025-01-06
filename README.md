@@ -16,3 +16,7 @@
 * 데이콘 : https://dacon.io/
 * 강원지역 혁신 플랫폼 데이터(현재 502 에러) : https://meta.gwlrs.ac.kr/
 * AI 허브 : https://www.aihub.or.kr/
+
+# 실습파일 수정
+
+* https://colab.research.google.com/drive/1V_avqs_LELRIICZEEokNqksT-kB4pDGG
