@@ -20,3 +20,4 @@
 # 실습파일 수정
 
 * https://colab.research.google.com/drive/1V_avqs_LELRIICZEEokNqksT-kB4pDGG
+* https://colab.research.google.com/drive/1d0Ej-AQeFmU2U9QZkH2JnZuTCVZLogXT?usp=classroom_web
